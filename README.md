@@ -8,4 +8,5 @@ Requirements:-
 Run these commands before using the script
 
 sudo apt install python3-pip
+
 pip3 install requests pysocks
